@@ -56,7 +56,7 @@
     "chalk": "^4.1.1",
     "cli-select": "^1.1.2",
     "enquirer": "github:NobUwU/enquirer#typings",
-    "jimp": "^0.16.1",
+    "jimp": "^0.22.7",
     "js-yaml": "^4.1.0",
     "jsonwebtoken": "^9.0.0",
     "moment": "^2.29.1",
